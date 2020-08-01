@@ -1,0 +1,4 @@
+You can tell it where to click and when to press a key in order
+it is a gui
+you can specify multiple keys to press
+multiple click positions
